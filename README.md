@@ -1,1 +1,0 @@
-# typexs.github.io
