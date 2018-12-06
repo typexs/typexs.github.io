@@ -1,0 +1,59 @@
+= Modules
+
+
+[cols="2,1,1,1,1,1"]
+|===
+| Name  |  Version | Ng | Build | Coverage | Depedency
+
+| https://github.com/typexs/typexs-base[@typexs/base]
+| image:https://img.shields.io/npm/v/@typexs/base.svg["npm version", link="https://www.npmjs.com/package/@typexs/base"]
+|
+| image:https://travis-ci.org/typexs/typexs-base.svg?branch=master["Build status",link="https://travis-ci.org/typexs/typexs-base"]
+| image:https://codecov.io/gh/typexs/typexs-base/branch/master/graph/badge.svg["Coverage",link="https://codecov.io/gh/typexs/typexs-base"]
+| image:https://david-dm.org/typexs/typexs-base.svg["Dependency Status",link="https://david-dm.org/typexs/typexs-base"]
+
+| https://github.com/typexs/typexs-server[@typexs/server]
+| image:https://img.shields.io/npm/v/@typexs/server.svg["npm version", link="https://www.npmjs.com/package/@typexs/server"]
+|
+| image:https://travis-ci.org/typexs/typexs-server.svg?branch=master["Build status",link="https://travis-ci.org/typexs/typexs-server"]
+| image:https://codecov.io/gh/typexs/typexs-server/branch/master/graph/badge.svg["Coverage",link="https://codecov.io/gh/typexs/typexs-server"]
+| image:https://david-dm.org/typexs/typexs-server.svg["Dependency Status",link="https://david-dm.org/typexs/typexs-server"]
+
+
+| https://github.com/typexs/typexs-schema[@typexs/schema]
+| image:https://img.shields.io/npm/v/@typexs/schema.svg["npm version", link="https://www.npmjs.com/package/@typexs/schema"]
+|
+| image:https://travis-ci.org/typexs/typexs-schema.svg?branch=master["Build status",link="https://travis-ci.org/typexs/typexs-schema"]
+| image:https://codecov.io/gh/typexs/typexs-schema/branch/master/graph/badge.svg["Coverage",link="https://codecov.io/gh/typexs/typexs-schema"]
+| image:https://david-dm.org/typexs/typexs-schema.svg["Dependency Status",link="https://david-dm.org/typexs/typexs-schema"]
+
+| https://github.com/typexs/typexs-ng[@typexs/ng]
+| image:https://img.shields.io/npm/v/@typexs/ng.svg["npm version", link="https://www.npmjs.com/package/@typexs/ng"]
+|
+| image:https://travis-ci.org/typexs/typexs-ng.svg?branch=master["Build status",link="https://travis-ci.org/typexs/typexs-ng"]
+| image:https://codecov.io/gh/typexs/typexs-ng/branch/master/graph/badge.svg["Coverage",link="https://codecov.io/gh/typexs/typexs-ng"]
+| image:https://david-dm.org/typexs/typexs-ng.svg["Dependency Status",link="https://david-dm.org/typexs/typexs-ng"]
+
+| https://github.com/typexs/typexs-ng[@typexs/ng-base]
+| image:https://img.shields.io/npm/v/@typexs/ng-base.svg["npm version", link="https://www.npmjs.com/package/@typexs/ng-base"]
+| Yes
+| image:https://travis-ci.org/typexs/typexs-ng.svg?branch=master["Build status",link="https://travis-ci.org/typexs/typexs-ng"]
+| image:https://codecov.io/gh/typexs/typexs-ng/branch/master/graph/badge.svg["Coverage",link="https://codecov.io/gh/typexs/typexs-ng"]
+| image:https://david-dm.org/typexs/typexs-ng.svg["Dependency Status",link="https://david-dm.org/typexs/typexs-ng"]
+
+| https://github.com/typexs/typexs-auth[@typexs/auth]
+| image:https://img.shields.io/npm/v/@typexs/auth.svg["npm version", link="https://www.npmjs.com/package/@typexs/auth"]
+|
+| image:https://travis-ci.org/typexs/typexs-auth.svg?branch=master["Build status",link="https://travis-ci.org/typexs/typexs-auth"]
+| image:https://codecov.io/gh/typexs/typexs-auth/branch/master/graph/badge.svg["Coverage",link="https://codecov.io/gh/typexs/typexs-auth"]
+| image:https://david-dm.org/typexs/typexs-auth.svg["Dependency Status",link="https://david-dm.org/typexs/typexs-auth"]
+
+| https://github.com/typexs/typexs-auth[@typexs/ng-auth]
+| image:https://img.shields.io/npm/v/@typexs/ng-auth.svg["npm version", link="https://www.npmjs.com/package/@typexs/ng-auth"]
+| Yes
+| image:https://travis-ci.org/typexs/typexs-auth.svg?branch=master["Build status",link="https://travis-ci.org/typexs/typexs-auth"]
+| image:https://codecov.io/gh/typexs/typexs-auth/branch/master/graph/badge.svg["Coverage",link="https://codecov.io/gh/typexs/typexs-auth"]
+| image:https://david-dm.org/typexs/typexs-auth.svg["Dependency Status",link="https://david-dm.org/typexs/typexs-auth"]
+
+|===
+
